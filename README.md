@@ -1,4 +1,4 @@
-# Giovanni Andreella, 2119200, 2023/2024
+# Giovanni Andreella, 2023/2024
 # Boid assignement
 To successfully execute this project please complete the following steps:
 1. Modify the __n__ value of the `Flock(n)` constructor in file `main.cpp` to simulate a group of n boids (line 21).
